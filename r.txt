@@ -1,0 +1,8 @@
+bs4
+requests
+colorama
+pysocks
+requests-html
+wheel
+proxy_manager
+

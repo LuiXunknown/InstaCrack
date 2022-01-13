@@ -2,7 +2,7 @@ bs4
 requests
 colorama
 pysocks
-requests-html
+requests_html
 wheel
 proxy_manager
 

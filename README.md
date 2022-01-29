@@ -12,11 +12,11 @@ pip3 install -r r.txt
 
 ### How to use🚦
 
-1.Paste your password wordlist into the ```pass``` file.
+1.Paste your password wordlist into ```pass``` file.
 
 type ```nano pass```
 
-2.Paste your proxy into the ```proxy``` file
+2.Paste your proxy into ```proxy``` file
 
 type ```nano proxy```
 

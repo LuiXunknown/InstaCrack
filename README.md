@@ -4,7 +4,7 @@ BruteForce Instagram Account Tool
 ### Installation Command⬇️
 
 ```
-git clone https://github.com/L0rdK1r422/InstaCrack
+git clone https://github.com/flucif3r/InstaCrack
 ```
 ```
 pip3 install -r r.txt
